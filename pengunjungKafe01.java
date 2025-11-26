@@ -5,7 +5,6 @@ public class pengunjungKafe01 {
       System.out.println("- " + pengunjung);
     }
   }
-
   public static void main(String[] args) {
     daftarPengunjung("Ali", "Budi", "Citra");
     daftarPengunjung();
